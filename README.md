@@ -11,7 +11,7 @@
     * The objective is to achieve a portfolio with comparable quality to the image below. But feel free to make it your own!
     * You may want to spend more time on this after class to make this an excellent project to add to your portfolio!
 
-![Portfolio Example](./assets/img/portfolio-example.png)
+![Portfolio Example](ohnetter/Profile-Card.png)
 
 Adapted from Leon Hunter.
 # Profile-Card
